@@ -1,0 +1,20 @@
+15:45:12 - !! renaming disabled !!
+15:46:55 - !! renaming disabled !!
+21:41:41 - '"C:\Program Files\Java\jdk1.7.0_07\bin\java" -Xincgc -Xms1024M -Xmx1024M -cp "..\bin\minecraft;..\sr...' failed : 1
+21:41:41 - FATAL ERROR
+Traceback (most recent call last):
+  File "runtime\startclient.py", line 30, in startclient
+  File "C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\runtime\commands.py", line 1090, in startclient
+    self.runmc(forkcmd)
+  File "C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\runtime\commands.py", line 1130, in runmc
+    raise CalledProcessError(process.returncode, forkcmd, output)
+CalledProcessError: Command '"C:\Program Files\Java\jdk1.7.0_07\bin\java" -Xincgc -Xms1024M -Xmx1024M -cp "..\bin\minecraft;..\src\common;..\lib;..\lib\*;..\jars\bin\minecraft.jar;..\jars\bin\jinput.jar;..\jars\bin\lwjgl.jar;..\jars\bin\lwjgl_util.jar" -Djava.library.path=..\jars\bin\natives Start' returned non-zero exit status 1
+12:10:48 - '"C:\Program Files\Java\jdk1.7.0_07\bin\java" -Xincgc -Xms1024M -Xmx1024M -cp "..\bin\minecraft;..\sr...' failed : 1
+12:10:48 - FATAL ERROR
+Traceback (most recent call last):
+  File "runtime\startclient.py", line 30, in startclient
+  File "C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\runtime\commands.py", line 1090, in startclient
+    self.runmc(forkcmd)
+  File "C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\runtime\commands.py", line 1130, in runmc
+    raise CalledProcessError(process.returncode, forkcmd, output)
+CalledProcessError: Command '"C:\Program Files\Java\jdk1.7.0_07\bin\java" -Xincgc -Xms1024M -Xmx1024M -cp "..\bin\minecraft;..\src\common;..\lib;..\lib\*;..\jars\bin\minecraft.jar;..\jars\bin\jinput.jar;..\jars\bin\lwjgl.jar;..\jars\bin\lwjgl_util.jar" -Djava.library.path=..\jars\bin\natives Start' returned non-zero exit status 1

@@ -1,0 +1,62 @@
+---- Minecraft Crash Report ----
+// Would you like a cupcake?
+
+Time: 10/7/12 11:49 AM
+Description: Failed to start game
+
+cpw.mods.fml.common.LoaderException: java.lang.IllegalArgumentException: Can not set static com.negativepixels.MCTC.MAGICKA.MAGIKA field com.negativepixels.MCTC.MAGICKA.MAGIKA.instance to com.negativepixels.MCTC.MCTC
+	at cpw.mods.fml.common.LoadController.transition(LoadController.java:102)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:459)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:143)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:416)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:748)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.IllegalArgumentException: Can not set static com.negativepixels.MCTC.MAGICKA.MAGIKA field com.negativepixels.MCTC.MAGICKA.MAGIKA.instance to com.negativepixels.MCTC.MCTC
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(Unknown Source)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(Unknown Source)
+	at sun.reflect.UnsafeStaticObjectFieldAccessorImpl.set(Unknown Source)
+	at java.lang.reflect.Field.set(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.parseSimpleFieldAnnotation(FMLModContainer.java:382)
+	at cpw.mods.fml.common.FMLModContainer.processFieldAnnotations(FMLModContainer.java:308)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:402)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:81)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:458)
+	... 4 more
+
+Relevant Details:
+- Minecraft Version: 1.3.2
+- Operating System: Windows 7 (amd64) version 6.1
+- Java Version: 1.7.0_07, Oracle Corporation
+- Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+- Memory: 810460792 bytes (772 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+- JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+- FML: FML v3.1.30.390 Minecraft Forge 4.1.4.297 4 mods loaded, 4 mods active
+	FML [Forge Mod Loader] (coremods) Unloaded->Constructed
+	Forge [Minecraft Forge] (coremods) Unloaded->Constructed
+	NegativePiXels_MCTC_Magicka [Minecraft Total Conversion-MAGICKA] (bin) Unloaded->Errored
+	NegativePiXels_MCTC [Minecraft Total Conversion] (bin) Unloaded->Errored
+- LWJGL: 2.4.2
+- OpenGL: GeForce GT 520/PCIe/SSE2 GL version 4.2.0, NVIDIA Corporation
+- Is Modded: Definitely; 'forge,fml'
+- Type: Client
+- Texture Pack: Default
+- Profiler Position: N/A (disabled)

@@ -1,0 +1,288 @@
+2012-10-07 12:02:03 [INFO] [ForgeModLoader] Forge Mod Loader version 3.1.30.390 for Minecraft client:1.3.2, server:1.3.2 loading
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] All core mods are successfully located
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] Discovering coremods
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] Found library file argo-2.25.jar present and correct in lib dir
+
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] Found library file guava-12.0.1.jar present and correct in lib dir
+
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] Found library file asm-all-4.0.jar present and correct in lib dir
+
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] Running coremod plugins
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] Coremod plugin FMLCorePlugin run successfully
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] Coremod plugin FMLForgePlugin run successfully
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] Validating minecraft
+2012-10-07 12:02:03 [FINEST] [ForgeModLoader] Minecraft validated, launching...
+2012-10-07 12:02:05 [INFO] [STDOUT] 27 achievements
+2012-10-07 12:02:05 [INFO] [STDOUT] 195 recipes
+2012-10-07 12:02:05 [INFO] [STDOUT] Setting user: Player393, -
+2012-10-07 12:02:05 [INFO] [STDERR] Client asked for parameter: server
+2012-10-07 12:02:05 [INFO] [STDOUT] LWJGL Version: 2.4.2
+2012-10-07 12:02:06 [INFO] [ForgeModLoader] Attempting early MinecraftForge initialization
+2012-10-07 12:02:06 [INFO] [STDOUT] MinecraftForge v4.1.4.297 Initialized
+2012-10-07 12:02:06 [INFO] [ForgeModLoader] MinecraftForge v4.1.4.297 Initialized
+2012-10-07 12:02:06 [INFO] [ForgeModLoader] Completed early MinecraftForge initialization
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Found a minecraft related directory at C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\eclipse\Minecraft\bin, examining for mod candidates
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\jars\bin\jinput.jar
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\jars\bin\lwjgl_util.jar
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\jars\bin\lwjgl.jar
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\jars\bin\minecraft.jar, examining for mod candidates
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\lib\argo-2.25.jar
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\lib\asm-all-4.0.jar
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\lib\guava-12.0.1.jar
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\jars\lib\argo-2.25.jar
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\jars\lib\guava-12.0.1.jar
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\jars\lib\asm-all-4.0.jar
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2012-10-07 12:02:06 [INFO] [ForgeModLoader] Searching C:\Users\Toxic_Cyber\Desktop\Negative PiXels\Minecraft Forge MCP\jars\mods for mods
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Examining directory bin for potential mods
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] No mcmod.info file found in directory bin
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package com
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package com.negativepixels
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package com.negativepixels.MCTC
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package com.negativepixels.MCTC.MAGICKA
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.negativepixels.MCTC.MAGICKA.MAGIKA
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Parsed dependency info : [] [] []
+2012-10-07 12:02:06 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.negativepixels.MCTC.MCTC
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Parsed dependency info : [] [] []
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.modloader
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.registry
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery.asm
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.event
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.functions
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.modloader
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.network
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.registry
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.toposort
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.versioning
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.relauncher
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.server
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package ibxm
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package net
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server
+2012-10-07 12:02:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.src
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.classloading
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event.sound
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.item
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.living
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.minecart
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.player
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.world
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.oredict
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.transformers
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.asn1
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.asn1.bc
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.asn1.pkcs
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.crypto
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.crypto.engines
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.crypto.io
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.crypto.modes
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.crypto.params
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.jcajce
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.jcajce.provider
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.jcajce.provider.config
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.jcajce.provider.util
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.jce
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.jce.provider
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package org.bouncycastle.util
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package paulscode
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound.codecs
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Examining file minecraft.jar for potential mods
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] The mod container minecraft.jar appears to be missing an mcmod.info file
+2012-10-07 12:02:07 [INFO] [ForgeModLoader] Forge Mod Loader has identified 4 mods to load
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Received a system property request ''
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] System property request managing the state of 0 mods
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Activating mod FML
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Activating mod Forge
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Enabling mod NegativePiXels_MCTC_Magicka
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Activating mod NegativePiXels_MCTC_Magicka
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Enabling mod NegativePiXels_MCTC
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Activating mod NegativePiXels_MCTC
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Verifying mod requirements are satisfied
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] All mod requirements are satisfied
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Sorting mods into an ordered list
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Mod sorting completed successfully
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Mod sorting data:
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] 	NegativePiXels_MCTC_Magicka(Minecraft Total Conversion-MAGICKA:Alpha 0.1): bin ()
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] 	NegativePiXels_MCTC(Minecraft Total Conversion:Alpha 0.1): bin ()
+2012-10-07 12:02:07 [FINER] [ForgeModLoader] Posting state event FMLConstructionEvent to mod FML
+2012-10-07 12:02:07 [FINER] [ForgeModLoader] State event FMLConstructionEvent delivered to mod FML
+2012-10-07 12:02:07 [FINER] [ForgeModLoader] Posting state event FMLConstructionEvent to mod Forge
+2012-10-07 12:02:07 [FINER] [ForgeModLoader] State event FMLConstructionEvent delivered to mod Forge
+2012-10-07 12:02:07 [FINER] [ForgeModLoader] Posting state event FMLConstructionEvent to mod NegativePiXels_MCTC_Magicka
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Testing mod NegativePiXels_MCTC_Magicka to very it can accept it's own version in a remote connection
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] The mod NegativePiXels_MCTC_Magicka accepts it's own version (Alpha 0.1)
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into NegativePiXels_MCTC_Magicka
+2012-10-07 12:02:07 [FINER] [ForgeModLoader] State event FMLConstructionEvent delivered to mod NegativePiXels_MCTC_Magicka
+2012-10-07 12:02:07 [FINER] [ForgeModLoader] Posting state event FMLConstructionEvent to mod NegativePiXels_MCTC
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] Testing mod NegativePiXels_MCTC to very it can accept it's own version in a remote connection
+2012-10-07 12:02:07 [FINEST] [ForgeModLoader] The mod NegativePiXels_MCTC accepts it's own version (Alpha 0.1)
+2012-10-07 12:02:07 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into NegativePiXels_MCTC
+2012-10-07 12:02:07 [FINER] [ForgeModLoader] State event FMLConstructionEvent delivered to mod NegativePiXels_MCTC
+2012-10-07 12:02:07 [SEVERE] [ForgeModLoader] Fatal errors were detected during the transition from CONSTRUCTING to PREINITIALIZATION. Loading cannot continue
+2012-10-07 12:02:07 [SEVERE] [ForgeModLoader] 
+	FML [Forge Mod Loader] (coremods) Unloaded->Constructed
+	Forge [Minecraft Forge] (coremods) Unloaded->Constructed
+	NegativePiXels_MCTC_Magicka [Minecraft Total Conversion-MAGICKA] (bin) Unloaded->Errored
+	NegativePiXels_MCTC [Minecraft Total Conversion] (bin) Unloaded->Errored
+2012-10-07 12:02:07 [SEVERE] [ForgeModLoader] The following problems were captured during this phase
+2012-10-07 12:02:07 [SEVERE] [ForgeModLoader] Caught exception from NegativePiXels_MCTC
+java.lang.IllegalArgumentException: Can not set static com.negativepixels.MCTC.MAGICKA.MAGIKA field com.negativepixels.MCTC.MAGICKA.MAGIKA.instance to com.negativepixels.MCTC.MCTC
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(Unknown Source)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(Unknown Source)
+	at sun.reflect.UnsafeStaticObjectFieldAccessorImpl.set(Unknown Source)
+	at java.lang.reflect.Field.set(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.parseSimpleFieldAnnotation(FMLModContainer.java:382)
+	at cpw.mods.fml.common.FMLModContainer.processFieldAnnotations(FMLModContainer.java:308)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:402)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:81)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:458)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:143)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:416)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:748)
+	at java.lang.Thread.run(Unknown Source)
+2012-10-07 12:02:07 [SEVERE] [ForgeModLoader] Caught exception from NegativePiXels_MCTC_Magicka
+java.lang.IllegalArgumentException: Can not set static com.negativepixels.MCTC.MCTC field com.negativepixels.MCTC.MCTC.instance to com.negativepixels.MCTC.MAGICKA.MAGIKA
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(Unknown Source)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(Unknown Source)
+	at sun.reflect.UnsafeStaticObjectFieldAccessorImpl.set(Unknown Source)
+	at java.lang.reflect.Field.set(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.parseSimpleFieldAnnotation(FMLModContainer.java:382)
+	at cpw.mods.fml.common.FMLModContainer.processFieldAnnotations(FMLModContainer.java:308)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:402)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:81)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:458)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:143)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:416)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:748)
+	at java.lang.Thread.run(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] cpw.mods.fml.common.LoaderException: java.lang.IllegalArgumentException: Can not set static com.negativepixels.MCTC.MAGICKA.MAGIKA field com.negativepixels.MCTC.MAGICKA.MAGIKA.instance to com.negativepixels.MCTC.MCTC
+2012-10-07 12:02:17 [INFO] [STDERR] 	at cpw.mods.fml.common.LoadController.transition(LoadController.java:102)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:459)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:143)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:416)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at net.minecraft.client.Minecraft.run(Minecraft.java:748)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.lang.Thread.run(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] Caused by: java.lang.IllegalArgumentException: Can not set static com.negativepixels.MCTC.MAGICKA.MAGIKA field com.negativepixels.MCTC.MAGICKA.MAGIKA.instance to com.negativepixels.MCTC.MCTC
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.reflect.UnsafeStaticObjectFieldAccessorImpl.set(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.lang.reflect.Field.set(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at cpw.mods.fml.common.FMLModContainer.parseSimpleFieldAnnotation(FMLModContainer.java:382)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at cpw.mods.fml.common.FMLModContainer.processFieldAnnotations(FMLModContainer.java:308)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:402)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:124)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:81)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:458)
+2012-10-07 12:02:17 [INFO] [STDERR] 	... 4 more
+2012-10-07 12:02:17 [INFO] [STDERR] Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException: component argument pData
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.java2d.windows.GDIWindowSurfaceData.initOps(Native Method)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.java2d.windows.GDIWindowSurfaceData.<init>(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.java2d.windows.GDIWindowSurfaceData.createData(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.java2d.d3d.D3DScreenUpdateManager.getGdiSurface(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.java2d.d3d.D3DScreenUpdateManager.createGraphics(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.awt.windows.WComponentPeer.getGraphics(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.Component.getGraphics(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.awt.RepaintArea.paint(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at sun.awt.windows.WComponentPeer.handleEvent(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventQueue.access$200(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventQueue$3.run(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventQueue$3.run(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventQueue$4.run(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventQueue$4.run(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-07 12:02:17 [INFO] [STDERR] 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-07 12:21:10 [INFO] [STDERR] Someone is closing me!
