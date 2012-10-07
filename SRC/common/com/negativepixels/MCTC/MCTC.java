@@ -1,5 +1,7 @@
 package com.negativepixels.MCTC;
 
+
+
 import net.minecraft.src.Block;
 import net.minecraft.src.BlockHalfSlab;
 import net.minecraft.src.BlockStairs;
@@ -28,10 +30,11 @@ public class MCTC
 	  //block statics
 	  public static Block marble;
 	  public static Block ebonyore;
-
+      public static Block magickaworkbench;
 	  
 	  //item statics
 	  public static Item ingotebony;
+	  public static Item emptyrune;
 
 	  
 	     
@@ -43,31 +46,35 @@ public class MCTC
 	    //block inputs
 	    marble = new BlockMarble(230).setStepSound(Block.soundStoneFootstep).setHardness(3F).setResistance(1.0F).setBlockName("marble").setCreativeTab(CreativeTabs.tabBlock);
 	    ebonyore = new BlockEbonyOre(231).setStepSound(Block.soundStoneFootstep).setHardness(3F).setResistance(1.0F).setBlockName("oreebony").setCreativeTab(CreativeTabs.tabBlock);
+	    magickaworkbench = new BlockMagickaBench(232).setStepSound(Block.soundWoodFootstep).setHardness(3F).setResistance(1.0F).setBlockName("marble").setCreativeTab(CreativeTabs.tabBlock);
+
 	    
 	    //item inputs
 	    ingotebony = new ItemingotEbony(8002).setIconIndex(0).setItemName("ingotebony").setCreativeTab(CreativeTabs.tabMaterials);
-	    
+	    emptyrune = new ItememptyRune(8003).setIconIndex(1).setItemName("emptyrune").setCreativeTab(CreativeTabs.tabMaterials);
 	    
 	    
 	    
 	    //game registers (blocks only)
 	    GameRegistry.registerBlock(marble);
 	    GameRegistry.registerBlock(ebonyore);
-	    
+	    GameRegistry.registerBlock(magickaworkbench);
 
 
 	    //language registry (blocks and items)
 	    LanguageRegistry.addName(marble, "Marble");
 	    LanguageRegistry.addName(ebonyore, "Ebony Ore");
+	    LanguageRegistry.addName(magickaworkbench, "Magicka WorkBench");
 	    
 	    
 	    //LanguageRegistry.addName(item, "item name");
 	    LanguageRegistry.addName (ingotebony, "Ebony Ingot");
+	    LanguageRegistry.addName (emptyrune, "Blank Rune");
 	    
 
 	    }
 	 @cpw.mods.fml.common.Mod.PreInit
 	 public void PreInit(FMLPreInitializationEvent event){
-	  System.out.println("Minecraft Total Conversion Loaded Successfully!");
+	  System.out.println("Minecraft Total Conversion & MCTC Magicka Loaded Successfully!");
   }
 }
